@@ -24,7 +24,7 @@
   <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{YOUR_GITHUB_USERNAME}}/ignews?color=56BEB8" /> -->
 </p>
 
- Status 
+<h2 align="center"> Status </h2> 
 
  <h4 align="center"> 
 	🚧  Ignews 🚀 Under construction...  🚧
