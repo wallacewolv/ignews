@@ -46,7 +46,7 @@
 
 ## :dart: About ##
 
-Application for text signature of contents of the unverso of react
+Application for text signature of contents of the universe of react
 
 ## :sparkles: Features ##
 
