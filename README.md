@@ -51,6 +51,7 @@ Application for text signature of contents of the universe of react
 ## :sparkles: Features ##
 
 :heavy_check_mark: Initial ;\
+:heavy_check_mark: Creating fauna file for integration with FaunaDB ;
 
 ## :rocket: Technologies ##
 
