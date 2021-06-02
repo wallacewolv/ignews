@@ -50,8 +50,15 @@ Application for text signature of contents of the universe of react
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Initial ;\
-:heavy_check_mark: Creating fauna file for integration with FaunaDB ;
+:heavy_check_mark: Initial;\
+:heavy_check_mark: Add Typescript;\
+:heavy_check_mark: Add Sass and Font-family Roboto;\
+:heavy_check_mark: Creating dinamic title and global styles;\
+:heavy_check_mark: Creating SignInButton;\
+:heavy_check_mark: Add elements with Index and creating Home styles;\
+:heavy_check_mark: Changed to Server Side Generation;\
+:heavy_check_mark: Creating Next Authtication with Github;\
+:heavy_check_mark: Creating fauna file for integration with FaunaDB;
 
 ## :rocket: Technologies ##
 
