@@ -50,7 +50,7 @@ Application for text signature of contents of the universe of react
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Initial;\
+:heavy_check_mark: Initial Commit;\
 :heavy_check_mark: Add Typescript;\
 :heavy_check_mark: Add Sass and Font-family Roboto;\
 :heavy_check_mark: Creating dinamic title and global styles;\
@@ -68,6 +68,8 @@ The following tools were used in this project:
 - [Next.js](https://nextjs.org/)
 - [Node.js](https://nodejs.org/en/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [Stripe](https://stripe.com/br)
+- [Fauna DB](https://fauna.com/)
 
 ## :white_check_mark: Requirements ##
 
